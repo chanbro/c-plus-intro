@@ -17,10 +17,13 @@
  * src - contains .cpp source code
  * Debug - dev build
  * Release - production build
+ * makefiles - made by IDE, can be made manually
  * */
 
 /* TERMINAL INSTRUCTIONS
- *
+ * cd ~/[project directory]/[program name]/src
+ * cat [program name] - displays source code
+ * ./[program name] - compiles code in terminal
  * */
 
 // Takes file called iostream and inputs it into program before compiling (NOT a statement)
