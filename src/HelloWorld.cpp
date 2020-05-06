@@ -18,6 +18,7 @@
  * Debug - dev build
  * Release - production build
  * makefiles - made by IDE, can be made manually
+ * .o - binary file, object file linked with libraries to create final program
  * */
 
 /* TERMINAL INSTRUCTIONS
